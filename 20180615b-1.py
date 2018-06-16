@@ -20,5 +20,3 @@ class Player:
 p1 = Player("pelikan", 1)
 p1.level_up(10)
 p1.display()
-
-#
